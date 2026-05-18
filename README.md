@@ -90,7 +90,7 @@ pip install -r requirements.txt
 ## Author
 
 - Data Engineering Student
-- Built as a portfolio project for deep generative models
+
 
 ## License
 
